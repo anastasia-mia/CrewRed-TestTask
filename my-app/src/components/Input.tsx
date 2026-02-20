@@ -18,7 +18,7 @@ export const Input = (
     {
         label,
         type = "text",
-        value="",
+        value,
         placeholder,
         clearable = false,
         onChange,
